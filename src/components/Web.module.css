@@ -1,0 +1,57 @@
+.web{
+    padding-top: 50px;
+    height: calc(100vh - 90px - 50px);
+}
+.thumbnail{
+    width: 960px; height: 100%;
+}
+.contents{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contents > li{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 30px;
+    margin-top: 50px;
+}
+.web p {
+    width: 90%;
+    margin-bottom: 1.875rem;
+}
+.textArea {
+    position: relative;
+}
+.tag{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 1.875rem;
+}
+.tag li {
+    background: #A79277 ;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-size: 0.875rem;
+}
+.tool{
+    display: flex;
+    gap: 15px;
+    margin-bottom: 1.875rem;
+}
+.tool img{
+    width: 50px;
+}
+.btnArea > a{
+    display: inline-block;
+    background: #82A7A6;
+    padding: 10px 15px;
+    border-radius: 8px;
+    color: #fff;
+}
+.btnArea > a + a{
+    background: #000;
+    margin-left: 15px;
+}

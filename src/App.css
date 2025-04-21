@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'BookkMyungjo-Bd';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.0/BookkMyungjo-Bd.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-size: 1rem;
+    background: #F5EFE6;
+}
+
+.inner {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.inner h2 {
+    font-size: 2rem;
+    margin-bottom: 1.875rem;
+}
+
+.inner h3 {
+    font-size: 1.75rem;
+    margin-bottom: 1.125rem;
+}
+
+.inner p {
+    word-break: keep-all;
+    line-height: 1.4;
+}
+
+section {
+    scroll-margin-top: 90px;
+}

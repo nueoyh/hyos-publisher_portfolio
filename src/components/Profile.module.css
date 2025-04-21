@@ -1,0 +1,39 @@
+.profile{
+    margin-bottom: 70px;
+}
+.profile > div{
+    padding-top: 50px;
+}
+.profile .aboutMe{
+    display: flex;
+    gap: 100px;
+}
+.profile  img{
+    border-radius: 15px;
+}
+.aboutMe .profile_text  div {
+    display: flex;
+    gap: 20px;
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+.aboutMe .profile_text  div dt {
+    font-size: 26px;
+    font-weight: 600;
+}
+.aboutMe .profile_text p{
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.aboutMe .profile_text  div a{
+    position: relative;
+}
+.aboutMe .profile_text  div a::after{
+    position: absolute;
+    content: '';
+    background: url(/public/img/cursor.png) no-repeat center/cover;
+    width: 50px; height: 50px;
+    bottom: -30px;
+}

@@ -1,0 +1,15 @@
+footer{
+    background: #000;
+    color: #fff;
+}
+footer > div > div{
+    display: flex;
+    align-items: first baseline;
+    padding-top: 30px;
+    gap: 30px;
+}
+footer .copyright {
+    text-align: center;
+    color: #ddd;
+
+}
