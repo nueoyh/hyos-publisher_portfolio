@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hyos-publisher_portfolio/static/css/main.c6a82e56.css",
-    "main.js": "/hyos-publisher_portfolio/static/js/main.b6e12ab0.js",
+    "main.css": "/hyos-publisher_portfolio/static/css/main.6ab8e854.css",
+    "main.js": "/hyos-publisher_portfolio/static/js/main.8a4eb1b1.js",
     "static/js/453.1407b060.chunk.js": "/hyos-publisher_portfolio/static/js/453.1407b060.chunk.js",
     "index.html": "/hyos-publisher_portfolio/index.html",
-    "main.c6a82e56.css.map": "/hyos-publisher_portfolio/static/css/main.c6a82e56.css.map",
-    "main.b6e12ab0.js.map": "/hyos-publisher_portfolio/static/js/main.b6e12ab0.js.map",
+    "main.6ab8e854.css.map": "/hyos-publisher_portfolio/static/css/main.6ab8e854.css.map",
+    "main.8a4eb1b1.js.map": "/hyos-publisher_portfolio/static/js/main.8a4eb1b1.js.map",
     "453.1407b060.chunk.js.map": "/hyos-publisher_portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6a82e56.css",
-    "static/js/main.b6e12ab0.js"
+    "static/css/main.6ab8e854.css",
+    "static/js/main.8a4eb1b1.js"
   ]
 }
